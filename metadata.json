@@ -1,0 +1,6 @@
+{
+  "name": "Campus Compass",
+  "description": "An interactive, comprehensive static guide and survival manual for freshers joining Amrita Vishwa Vidyapeetham, Amaravati in July 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
